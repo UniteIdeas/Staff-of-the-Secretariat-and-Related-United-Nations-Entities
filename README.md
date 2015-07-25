@@ -1,5 +1,5 @@
-# Staff-of-the-Secretariat-and-Related-United-Nations-Entities
-A graphical approach to display staff headcount at the United Nations Secretariat
+# Staff of the Secretariat and Related United Nations Entities
+A graphical approach to displaying staff headcount at the United Nations Secretariat.
 
 Copyright (C) 2015 Unite Ideas
 
