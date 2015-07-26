@@ -11,4 +11,4 @@ This visualization is based on the Sunburst zooming examples at http://www.jason
 
 Special appreciation to the creators of the libraries listed below which this program uses. 
 These libraries are licensed under their respective terms: 
-- D3.js (d3js.org) by Mike Bostock
+- D3.js (d3js.org) by Mike Bostock.
