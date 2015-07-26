@@ -1,0 +1,313 @@
+{
+ "name": "UNStaffByEntity",
+ "children": [
+  {
+   "name": "Secretariat : 42887",
+   "children": [
+    {
+     "name": "Fixed Term : 33501",
+     "children": [
+      {"name": "P+", "size": 7865},
+      {"name": "FS", "size": 4148},
+      {"name": "GS+", "size": 21488}
+     ]
+    },
+    {
+     "name": "Permanent : 7284",
+     "children": [
+      {"name": "P+", "size": 3162},
+      {"name": "FS", "size": 191},
+      {"name": "GS+", "size": 3931}
+     ]
+    },
+    {
+     "name": "Temporary : 2102",
+     "children": [
+      {"name": "P+", "size": 1262},
+      {"name": "FS", "size": 39},
+      {"name": "GS+", "size": 801}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNICEF : 11443",
+   "children": [
+    {
+     "name": "Fixed Term : 8510",
+     "children": [
+      {"name": "P+", "size": 2384},
+      {"name": "GS+", "size": 6126}
+     ]
+    },
+    {
+     "name": "Permanent : 1857",
+     "children": [
+      {"name": "P+", "size": 362},
+      {"name": "FS", "size": 1},
+      {"name": "GS+", "size": 1494}
+     ]
+    },
+    {
+     "name": "Temporary : 1076",
+     "children": [
+      {"name": "P+", "size": 241},
+      {"name": "GS+", "size": 835}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNDP : 8135",
+   "children": [
+    {
+     "name": "Fixed Term : 6178",
+     "children": [
+      {"name": "P+", "size": 2285},
+      {"name": "GS+", "size": 3893}
+     ]
+    },
+    {
+     "name": "Permanent : 1741",
+     "children": [
+      {"name": "P+", "size": 271},
+      {"name": "GS+", "size": 1470}
+     ]
+    },
+    {
+     "name": "Temporary : 216",
+     "children": [
+      {"name": "P+", "size": 90},
+      {"name": "GS+", "size": 126}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNHCR : 7997",
+   "children": [
+    {
+     "name": "Fixed Term : 3880",
+     "children": [
+      {"name": "P+", "size": 573},
+	  {"name": "FS", "size": 12},
+      {"name": "GS+", "size": 3295}
+     ]
+    },
+    {
+     "name": "Temporary : 1172",
+     "children": [
+      {"name": "P+", "size": 167},
+	  {"name": "FS", "size": 2},
+      {"name": "GS+", "size": 1003}
+     ]
+    },
+    {
+     "name": "Indefinite : 2945",
+     "children": [
+      {"name": "P+", "size": 1122},
+      {"name": "FS", "size": 25},
+      {"name": "GS+", "size": 1798}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNFPA : 2337",
+   "children": [
+    {
+     "name": "Fixed Term : 1860",
+     "children": [
+      {"name": "P+", "size": 479},
+      {"name": "GS+", "size": 1381}
+     ]
+    },
+    {
+     "name": "Permanent : 461",
+     "children": [
+      {"name": "P+", "size": 110},
+      {"name": "GS+", "size": 351}
+     ]
+    },
+    {
+     "name": "Temporary : 16",
+     "children": [
+      {"name": "P+", "size": 7},
+      {"name": "GS+", "size": 9}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNOPS : 854",
+   "children": [
+    {
+     "name": "Fixed Term : 782",
+     "children": [
+      {"name": "P+", "size": 579},
+      {"name": "GS+", "size": 203}
+     ]
+    },
+    {
+     "name": "Permanent : 48",
+     "children": [
+      {"name": "P+", "size": 23},
+      {"name": "GS+", "size": 25}
+     ]
+    },
+    {
+     "name": "Temporary : 24",
+     "children": [
+      {"name": "P+", "size": 24}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ITCb : 267",
+   "children": [
+    {
+     "name": "Fixed Term : 163",
+     "children": [
+      {"name": "P+", "size": 108},
+      {"name": "GS+", "size": 55}
+     ]
+    },
+    {
+     "name": "Permanent : 78",
+     "children": [
+      {"name": "P+", "size": 36},
+      {"name": "GS+", "size": 42}
+     ]
+    },
+    {
+     "name": "Temporary :  26",
+     "children": [
+      {"name": "P+", "size": 13},
+      {"name": "GS+", "size": 13}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNJSPF : 228",
+   "children": [
+    {
+     "name": "Fixed Term : 118",
+     "children": [
+      {"name": "P+", "size": 50},
+      {"name": "GS+", "size": 68}
+     ]
+    },
+    {
+     "name": "Permanent : 99",
+     "children": [
+      {"name": "P+", "size": 37},
+      {"name": "GS+", "size": 62}
+     ]
+    },
+    {
+     "name": "Temporary : 11",
+     "children": [
+      {"name": "P+", "size": 2},
+      {"name": "GS+", "size": 9}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNRWAc : 205 ",
+   "children": [
+    {
+     "name": "Fixed Term : 201",
+     "children": [
+      {"name": "P+", "size": 185},
+      {"name": "GS+", "size": 16}
+     ]
+    },
+    {
+     "name": "Indefinite : 4",
+     "children": [
+      {"name": "P+", "size": 3},
+      {"name": "GS+", "size": 1}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNITAR : 40",
+   "children": [
+    {
+     "name": "Fixed Term : 39",
+     "children": [
+      {"name": "P+", "size": 33},
+      {"name": "GS+", "size": 6}
+     ]
+    },
+    {
+     "name": "Temporary : 1",
+     "children": [
+      {"name": "P+", "size": 1}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "ICSC : 39",
+   "children": [
+    {
+     "name": "Fixed Term : 18",
+     "children": [
+      {"name": "P+", "size": 12},
+      {"name": "GS+", "size": 6}
+     ]
+    },
+    {
+     "name": "Permanent : 21",
+     "children": [
+      {"name": "P+", "size": 10},
+      {"name": "GS+", "size": 11}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UNU : 124",
+   "children": [
+    {
+     "name": "Fixed Term : 124",
+     "children": [
+      {"name": "P+", "size": 80},
+      {"name": "GS+", "size": 44}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "UN-Women : 501",
+   "children": [
+    {
+     "name": "Fixed Term : 448",
+     "children": [
+      {"name": "P+", "size": 315},
+      {"name": "GS+", "size": 133}
+     ]
+    },
+    {
+     "name": "Permanent : 26",
+     "children": [
+      {"name": "P+", "size": 16},
+      {"name": "GS+", "size": 10}
+     ]
+    },
+    {
+     "name": "Temporary : 27",
+     "children": [
+      {"name": "P+", "size": 24},
+      {"name": "GS+", "size": 3}
+     ]
+    }
+   ]
+  }
+ ]
+}
